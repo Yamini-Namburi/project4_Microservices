@@ -1,4 +1,8 @@
 # project4_MicroserviceProject Tasks:
+
+<a href="https://circleci.com/gh/circleci/circleci-docs"><img src="https://circleci.com/gh/circleci/circleci-docs.svg?style=svg"></a>
+
+
 This project goal is to operationalize this working, machine learning microservice using kubernetes, which is an open-source system for automating the management of containerized applications. In this project you will:
 
 Test your project code using linting
