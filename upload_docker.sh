@@ -6,10 +6,14 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
+export dockerpath="yamini91/microservices"
 
 # Step 2:  
 # Authenticate & tag
+docker login --username yamini91
+docker tag microservices $dockerpath
 echo "Docker ID and Image: $dockerpath"
 
 # Step 3:
 # Push image to a docker repository
+docker push $dockerpath

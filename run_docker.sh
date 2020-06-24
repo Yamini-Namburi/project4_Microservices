@@ -4,7 +4,7 @@
 
 # Step 1:
 # Build image and add a descriptive tag
-docker build . --tag=microservices
+docker build -t microservices:latest .
 
 # Step 2: 
 # List docker images
