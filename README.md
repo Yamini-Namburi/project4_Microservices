@@ -40,4 +40,4 @@ CircleCI Integration
 This repository has been verified with CircleCI
 
 Run the project:
-* Please follow to steps of screenshot in Images-of-result-deploy folders
+* Please follow to steps of screenshots
